@@ -1,0 +1,13 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "description": "typescript",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "Polas Chandra Barmon",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
