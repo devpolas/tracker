@@ -1,6 +1,6 @@
 # Run this project locally
 
-## `git clone https://github.com/devpolas/leap-year-checker.git`
+## `git clone https://github.com/devpolas/tracker.git`
 
 ## install essential packages `npm install`
 
