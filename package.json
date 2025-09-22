@@ -10,7 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "@faker-js/faker": "^10.0.0",
+    "@googlemaps/types": "^3.44.4",
     "@parcel/transformer-typescript-tsc": "^2.16.0",
+    "@types/googlemaps": "^3.43.3",
     "buffer": "^6.0.3",
     "parcel": "^2.16.0",
     "typescript": "^5.9.2"
